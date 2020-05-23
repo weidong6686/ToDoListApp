@@ -22,7 +22,7 @@ class ToDoDetailsViewController: UIViewController {
     
     var toDoIndex: Int!
     
-    let message = "Hello World"
+    let message = "Hello World!"
 
     override func viewDidLoad() {
         super.viewDidLoad()
